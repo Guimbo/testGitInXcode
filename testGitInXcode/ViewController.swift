@@ -10,9 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var msgman = "I am up now"
     var msg = "Hello, Git"
     var msg2 = "Hello Kenai"
+    var msg78 = "I am inside of your heart"
     var msg3 = "Hello Master of the universe"
+    var msg4 = "Hi, i am free! i dont need you"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
