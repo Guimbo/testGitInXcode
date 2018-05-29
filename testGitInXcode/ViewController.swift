@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     var msg = "Hello, Git"
     var msg2 = "Hello Kenai"
+    var msg3 = "Hello Master of the universe"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
